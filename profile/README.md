@@ -1,8 +1,3 @@
-Here’s a clean, professional **README** you can place in your GitHub organization profile for **AkzizLab**.
-I’ll make it modern, minimal, and suitable for a solo developer or small studio.
-
----
-
 # 🌐 **AkzizLab — Modern Web Systems & Digital Solutions**
 
 Welcome to **AkzizLab** — a development studio dedicated to building modern, scalable, and high-quality digital products.
